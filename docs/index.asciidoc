@@ -1,5 +1,5 @@
 :branch: current
-include::{asciidoc-dir}/../../shared/attributes62.asciidoc[]
+include::{asciidoc-dir}/../../shared/attributes.asciidoc[]
 
 ifdef::env-github[]
 NOTE: For the best reading experience,
